@@ -3,6 +3,8 @@ Basic codes in Bioinformatics.
 
 These were written as a part of the course BT3040 - Bioinformatics, offered in Spring semester by Prof Michael Gromiha.
 
+The course assignments and my solutions can be found here - https://drive.google.com/drive/folders/1QGE-CGren9jbFDYPeSZDvHvid9gF2RpH?usp=sharing
+
 The following codes are present in the jupyter notebook -
 
 1. Compliment of DNA
